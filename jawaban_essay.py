@@ -14,18 +14,18 @@ pdf.set_font("Times", size=12)
 
 isi = [
     "1. Pengertian Sturktur Data:",
-    "Struktur data ialah suatu teknik tertentu untuk menyimpan dan mengatur data di komputer sehingga "
+    "Struktur data ialah suatu teknik tertentu untuk menyimpan dan mengatur data di komputer sehingga",
     "dapat diproses atau digunakan lebih efisien.",
     "",
 
     "2. Kegunaan struktur data:",
-    "- Semakin teratur bikin data. Dengan struktur data, kita bisa menyimpan dan mengatur data dengan "
+    "- Semakin teratur bikin data. Dengan struktur data, kita bisa menyimpan dan mengatur data dengan",
     "baik, sehingga tidak berantakan dan mudah dicari.",
-    "- Membuat proses pengolahan lebih cepat. Kalau data sudah tertata, program bisa lebih cepat "
+    "- Membuat proses pengolahan lebih cepat. Kalau data sudah tertata, program bisa lebih cepat",
     "melaksanakan tugasnya, seperti mencari data atau mengubah isi data.",
-    "- Menghemat penggunaan memori. Struktur data yang tepat bisa membantu program menggunakan memori "
+    "- Menghemat penggunaan memori. Struktur data yang tepat bisa membantu program menggunakan memori",
     "secukupnya, sehingga tidak boros.",
-    "- Memudahkan kita ngoding. Karena udah sudah terdapat pola dan aturan tertentu, maka kita menjadi "
+    "- Memudahkan kita ngoding. Karena udah sudah terdapat pola dan aturan tertentu, maka kita menjadi",
     "lebih mudah menulis kode efisien dan rapi.",
     "- Membantu algoritma agar lancar berjalan. Banyak algoritma yang membutuhkan struktur data tertentu "
     "sehingga dapat dijalankan dengan maksimal, misalnya seperti mencari atau mengurutkan data.",
@@ -33,7 +33,7 @@ isi = [
 
     "3. Jenis-jenis struktur data beserta penjelasan:",
     "- Array: Menyimpan banyak data yang sejenis dalam satu wadah. Setiap elemen punya posisi (indeks).",
-    "- Linked List: Kumpulan elemen yang terhubung satu sama lain, cocok buat data yang sering ditambah "
+    "- Linked List: Kumpulan elemen yang terhubung satu sama lain, cocok buat data yang sering ditambah",
     "atau dihapus.",
     "- Stack: adalah data yang terlama masuk akan jadi yang pertama keluar.",
     "- Queue: ialah siapa yang masuk lebih awal keluar lebih dahulu.",
@@ -42,8 +42,8 @@ isi = [
     "",
 
     "4. Apa itu Array dan Kegunaan:",
-    "Array adalah wadah yang bisa menampung banyak nilai dengan jenis yang sama, dan tiap nilainya bisa "
-    "diakses lewat nomor urut (indeks). Array terkadang digunakan saat menyimpan data dalam jumlah banyak "
+    "Array adalah wadah yang bisa menampung banyak nilai dengan jenis yang sama, dan tiap nilainya bisa",
+    "diakses lewat nomor urut (indeks). Array terkadang digunakan saat menyimpan data dalam jumlah banyak",
     "dan ingin mengaksesnya dengan cepat.",
     "",
 
