@@ -27,7 +27,7 @@ isi = [
     "secukupnya, sehingga tidak boros.",
     "- Memudahkan kita ngoding. Karena udah sudah terdapat pola dan aturan tertentu, maka kita menjadi",
     "lebih mudah menulis kode efisien dan rapi.",
-    "- Membantu algoritma agar lancar berjalan. Banyak algoritma yang membutuhkan struktur data tertentu "
+    "- Membantu algoritma agar lancar berjalan. Banyak algoritma yang membutuhkan struktur data tertentu",
     "sehingga dapat dijalankan dengan maksimal, misalnya seperti mencari atau mengurutkan data.",
     "",
 
